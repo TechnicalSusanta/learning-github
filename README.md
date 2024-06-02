@@ -1,2 +1,2 @@
-# learning-github
-I am learning github
+# learning-GitHub
+I am learning GitHub
