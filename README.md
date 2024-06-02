@@ -1,3 +1,3 @@
 # learning-GitHub
 <h1>I am learning GitHub</h1>
-<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Shah_Rukh_Khan_graces_the_launch_of_the_new_Santro.jpg/220px-Shah_Rukh_Khan_graces_the_launch_of_the_new_Santro.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzcvGuRTd3ojnHvNU9p9VjE_dJ4je32zWCUQ&s)">
+<img src="https://media.licdn.com/dms/image/D5603AQF-Yk9jK2ssqA/profile-displayphoto-shrink_800_800/0/1708013906959?e=2147483647&v=beta&t=HGb9QIByIhMBxMNJVvcSStIB4WNJ742J4J9ptUz1gB4">
